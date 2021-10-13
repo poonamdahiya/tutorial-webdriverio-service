@@ -36,7 +36,7 @@ exports.config = {
     matchLevel: 'Layout',
     matchTimeout: 0,
     enableEyesLogs: true,
-    batch: {name: 'WeddriverIO Tutorial Batch'},
+    batch: {name: 'WebdriverIO Tutorial Batch'},
     useVisualGrid: true,
     batch: {notifyOnCompletion: true},
     concurrency: 5,
@@ -46,7 +46,6 @@ exports.config = {
     {width: 1200, height: 800, name: 'safari'},
     {width: 1200, height: 800, name: 'edgechromium'}],
     },
-
 
     enableEyesLogs: true,
     framework: 'mocha',

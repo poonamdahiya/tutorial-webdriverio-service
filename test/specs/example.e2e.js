@@ -1,8 +1,5 @@
 const {Target} = require('@applitools/eyes-webdriverio5-service')
 
-const LoginPage = require('../pageobjects/login.page');
-const SecurePage = require('../pageobjects/secure.page');
-
 describe('My Login application', () => {
     it('should login with valid credentials', async () => {
         await browser.url(`https://demo.applitools.com/index_v2.html`)

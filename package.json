@@ -10,15 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "@applitools/eyes-webdriverio5-service": "^1.13.5",
-    "@wdio/cli": "^6.12.1",
-    "save-dev": "0.0.1-security",
-    "webdriverio": "^6.12.1"
+    "@wdio/cli": "^7.14.1",
+    "webdriverio": "^7.14.1"
   },
   "devDependencies": {
     "@applitools/eyes-webdriverio": "^5.32.7",
-    "@wdio/local-runner": "^6.12.1",
-    "@wdio/mocha-framework": "^6.11.0",
-    "@wdio/spec-reporter": "^6.11.0",
+    "@wdio/local-runner": "^7.14.1",
+    "@wdio/mocha-framework": "^7.14.1",
+    "@wdio/spec-reporter": "^7.14.1",
     "chai": "^4.3.4",
     "chai-webdriverio": "^1.0.0",
     "chromedriver": "^94.0.0",
